@@ -13,7 +13,7 @@ You can view the live demo of the calculator [here](https://rah7202.github.io/ca
 # Installation
 Clone the repository and open the index.html file in your browser to start using the calculator.
 
-git clone https://github.com/rah7202/calculator-.git
+git clone https://github.com/rah7202/calculator.git
 
 # Usage
 Enter numbers using the keypad and perform operations
