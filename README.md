@@ -8,7 +8,7 @@ Clear button to reset the calculation
 Responsive design for different screen sizes
 
 # Demo
-You can view the live demo of the calculator [here](insert link to live demo)
+You can view the live demo of the calculator [here](https://rah7202.github.io/calculator-/)
 
 # Installation
 Clone the repository and open the index.html file in your browser to start using the calculator.
